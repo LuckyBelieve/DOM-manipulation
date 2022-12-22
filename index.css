@@ -9,7 +9,6 @@ body{
 }
 .movie{
     width: 95vh;
-    height: 65vh;
     border: 2px solid white;
     border-radius: 10px;
     display: flex;
