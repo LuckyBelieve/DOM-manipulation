@@ -9,7 +9,7 @@ button2.addEventListener("click",hello);
 
 //the efffective way of allowing events using function 
 
-let newbgcolor = document.querySelector('.box2');
+let newbgcolor = document.querySelector('.box3');
 console.log(newbgcolor);
 
 function changebgcolor(){
