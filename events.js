@@ -27,7 +27,7 @@ newbgcolor.addEventListener("mouseover",changebgcolor);
 
  let helloWorld = document.querySelector('.box1')
 
- function hard(){
+ function lucky(){
     helloWorld.style.backgroundColor = 'gray'
  }
- helloWorld.addEventListener('mouseover',hard)
+ helloWorld.addEventListener('mouseover',lucky)
