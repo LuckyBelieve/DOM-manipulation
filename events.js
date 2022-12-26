@@ -17,4 +17,17 @@ function changebgcolor(){
    };
 newbgcolor.addEventListener("mouseover",changebgcolor);
 
+ let NEWbgcolor = document.querySelector('.box2')
+ console.log(NEWbgcolor);
  
+ function easy(){
+    NEWbgcolor.style.backgroundColor  = 'gray'
+ }
+ NEWbgcolor.addEventListener("mouseover",easy)
+
+ let helloWorld = document.querySelector('.box1')
+
+ function hard(){
+    helloWorld.style.backgroundColor = 'gray'
+ }
+ helloWorld.addEventListener('mouseover',hard)
