@@ -39,6 +39,6 @@ body{
 .hidden-content.reveal-btn{
     display: block;
 }
-/* .reveal-btn.remove{ */
-    /* display: none; */
-/* } */
+.reveal-btn.remove{ 
+    display: none; 
+ }
