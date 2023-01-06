@@ -13,7 +13,7 @@ function revealContent(){
         hiddenContent.classList.remove('reveal-btn');
     }else{
         hiddenContent.classList.add('reveal-btn')
-        // revealBtn.classList.add('.remove')
+        revealBtn.classList.add('.remove')
     }
 }
 console.log(hiddenContent);
